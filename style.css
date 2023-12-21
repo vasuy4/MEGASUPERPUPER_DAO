@@ -1,0 +1,40 @@
+*{
+    font-family: "PT mono", 'Shanti', sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+html { 
+    font-size: 10px;     
+}
+
+body{
+    background-color: #10151A;
+    color: #fff;
+    font-size: 1.6rem;     
+}
+
+header a strong{
+    width: 144.511px;
+    height: 56.27px;
+    color: #FFF;
+    font-family: PT Mono;
+    font-size: 28.135px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56.27px; /* 200% */
+    letter-spacing: 0.512px;
+}
+
+nav a{
+    color: #FFF;
+    text-align: right;
+    font-family: PT Mono;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px; /* 200% */
+    opacity: 0.9;
+}
